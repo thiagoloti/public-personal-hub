@@ -1,0 +1,14 @@
+@@||theurbanherald.com^$important,document
+@@||theurb.co^$important,document
+@@||app.metricool.com^$important,document
+@@||support.google.com^$important,document
+@@||app.short.io^$important,document
+@@||bringbackgold.substack.com^$important,document
+@@||affiliate-program.amazon.com^$important,document
+@@||n8n.thiagoloti.com^$important,document
+@@||thiagoloti.com^$important,document
+@@||loti.pro^$important,document
+@@||adsense.google.com^$important,document
+@@||github.com^$important,document
+@@||devotionaldrops.com^$important,document
+@@||business.facebook.com^$important,document
