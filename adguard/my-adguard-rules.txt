@@ -41,6 +41,10 @@
 ! ============================================
 ! GitHub - Code repository and version control
 @@||github.com^$important,document
+@@||github.io^$important,document
+@@||githubusercontent.com^$important,document
+@@||githubassets.com^$important,document
+@@||github.dev^$important,document
 
 
 ! ============================================
@@ -95,12 +99,14 @@
 ! Example: Supabase dashboard
 ! @@||supabase.com^$important,document
 
+
 ! ============================================
 ! AI & AUTOMATION TOOLS
 ! (Add AI platforms, Make.com, other automation)
 ! ============================================
 ! Example: Make.com scenarios
 ! @@||make.com^$important,document
+
 
 ! ============================================
 ! VISUAL CONTENT & MEDIA SERVICES
@@ -109,12 +115,14 @@
 ! Example: Cloudinary media library
 ! @@||cloudinary.com^$important,document
 
+
 ! ============================================
 ! PAYMENT & E-COMMERCE
 ! (Add payment processors, Stripe, PayPal)
 ! ============================================
 ! Example: Stripe dashboard
 ! @@||stripe.com^$important,document
+
 
 ! ============================================
 ! COMMUNICATION & CHAT TOOLS
@@ -123,12 +131,14 @@
 ! Example: Chatwoot instance
 ! @@||app.chatwoot.com^$important,document
 
+
 ! ============================================
 ! DOMAIN & SSL MANAGEMENT
 ! (Add domain registrars, SSL certificate services)
 ! ============================================
 ! Example: Domain registrar
 ! @@||namecheap.com^$important,document
+
 
 ! ============================================
 ! VIDEO & STREAMING PLATFORMS
@@ -137,6 +147,7 @@
 ! Example: YouTube Studio
 @@||studio.youtube.com^$important,document
 
+
 ! ============================================
 ! WORDPRESS & CMS PLATFORMS
 ! (Add WordPress admin panels, plugin sites)
@@ -144,12 +155,14 @@
 ! Example: WordPress.org plugin repository
 ! @@||wordpress.org^$important,document
 
+
 ! ============================================
 ! TESTING & UTILITIES
 ! (Add testing tools, IP checkers, DNS tools)
 ! ============================================
 ! Example: IP address checker
 ! @@||whatismyipaddress.com^$important,document
+
 
 ! ============================================
 ! CUSTOM RULES & EXPERIMENTS
