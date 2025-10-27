@@ -66,6 +66,15 @@
 ! Google AdSense - Ad revenue platform
 @@||adsense.google.com^$important,document
 
+! Google Ads - Online advertising platform
+@@||ads.google.com^$important,document
+
+! Google Analytics - Analytics tool
+@@||analytics.google.com^$important,document
+
+! Google Tag Manager - Website tag management tool
+@@||tagassistant.google.com^$important,document
+
 
 ! ============================================
 ! SOCIAL MEDIA & CONTENT PLATFORMS
