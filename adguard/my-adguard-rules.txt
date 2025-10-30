@@ -89,6 +89,9 @@
 ! Amazon Affiliate Program - Partner dashboard
 @@||affiliate-program.amazon.com^$important,document
 
+! CJ Affiliate Program - Partner dashboard
+@@||members.cj.com^$important,document
+
 
 ! ============================================
 ! HOSTING & INFRASTRUCTURE
