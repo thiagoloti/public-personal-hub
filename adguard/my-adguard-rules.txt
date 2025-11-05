@@ -126,6 +126,7 @@
 ! ============================================
 ! Example: Cloudinary media library
 ! @@||cloudinary.com^$important,document
+! @@||res.cloudinary.com^$important,document
 
 
 ! ============================================
