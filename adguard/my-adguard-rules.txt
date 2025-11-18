@@ -103,6 +103,9 @@
 ! Example: Cloudflare dashboard
 @@||dash.cloudflare.com^$important,document
 
+! Example: Cloudflare challenges
+@@||challenges.cloudflare.com^$important,document
+
 
 ! ============================================
 ! DATABASE & BACKEND SERVICES
