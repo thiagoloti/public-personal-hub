@@ -88,7 +88,7 @@
 ! ============================================
 ! Amazon Affiliate Program - Partner dashboard
 @@||affiliate-program.amazon.com^$important,document
-@@||.amazon.^$important,document
+@@||*.amazon.*^$important,document
 
 ! CJ Affiliate Program - Partner dashboard
 @@||members.cj.com^$important,document
