@@ -163,6 +163,7 @@
 ! ============================================
 ! Example: YouTube Studio
 @@||studio.youtube.com^$important,document
+@@||youtube.com^$important,document
 
 
 ! ============================================
