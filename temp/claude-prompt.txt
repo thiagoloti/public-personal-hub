@@ -1,0 +1,10 @@
+Please, make the following improvements in the article. Don't remove anything, just make the content richer:  Please keep the text format, but don't capitalize every letter in titles. Use sentence case only among the whole text, capitalizing the first letter of the sentences/titles and other needed words e.g., Prison museum, Things to do in Dublin. Thanks.
+
+Please provide the answer without citation numbers or references.
+
+Don't use em dashes (—), (-), —, - or any other easily identifiable characters or writing patterns that are typically associated with AI-generated content.
+Formatting Choices to Avoid:
+Overuse of em dashes (—), (-) and semicolons
+Excessive bullet points or numbered lists
+Overly structured paragraphs with identical lengths
+Repeated use of transitional phrases like "furthermore," "moreover," or "additionally"
