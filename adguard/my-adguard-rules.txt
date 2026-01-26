@@ -139,8 +139,14 @@
 ! (Add Cloudinary, image hosting, video platforms)
 ! ============================================
 ! Example: Cloudinary media library
-! @@||cloudinary.com^$important,document
-! @@||res.cloudinary.com^$important,document
+@@||cloudinary.com^$important,document
+@@||res.cloudinary.com^$important,document
+
+! Example: Canva
+@@||canva.com^$important,document
+@@||*.canva.com^$important,document
+@@||canvacdn.com^$important,document
+@@||*.canvacdn.com^$important,document
 
 
 ! ============================================
