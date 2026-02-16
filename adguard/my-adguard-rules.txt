@@ -197,6 +197,12 @@
 ! Example: IP address checker
 ! @@||whatismyipaddress.com^$important,document
 
+! ============================================
+! OTHER DOMAINS & SERVICES
+! ============================================
+! Shadow PC
+@@||shadow.tech^$important,document
+@@||*.shadow.tech^$important,document
 
 ! ============================================
 ! CUSTOM RULES & EXPERIMENTS
