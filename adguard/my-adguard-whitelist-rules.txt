@@ -1,0 +1,206 @@
+! Title: Loti - Ads Personal Whitelist
+! Description: Personal whitelist for Thiago Loti
+! Version: 1.1
+! Last modified: 2026-05-24
+!
+
+! ============================================
+! PERSONAL DOMAINS & SERVICES
+! ============================================
+! Personal domain - Thiago Loti
+@@||thiagoloti.com^$important,document
+
+! Personal domain - Loti Pro
+@@||loti.pro^$important,document
+
+! n8n automation instance
+@@||n8n.thiagoloti.com^$important,document
+
+
+! ============================================
+! PERSONAL WEBSITES & PROJECTS
+! ============================================
+! The Urban Herald - Main news website
+@@||theurbanherald.com^$important,document
+
+! The Urban Herald - Short URL domain
+@@||theurb.co^$important,document
+
+! Devotional Drops - Religious content website
+@@||devotionaldrops.com^$important,document
+
+! Devotional Drops - Short URL domain
+@@||ddrp.cc^$important,document
+
+! Substack Bring Back Gold - Personal blog/Newsletter platform
+@@||bringbackgold.substack.com^$important,document
+
+! Paciência Tem Limite - Main newsletter website
+@@||pacienciatemlimite.com.br^$important,document
+
+! Paciência Tem Limite - Newsletter platform
+@@||beehiiv.com^$important,document
+
+
+
+! ============================================
+! DEVELOPMENT & TOOLS
+! ============================================
+! GitHub - Code repository and version control
+@@||github.com^$important,document
+@@||github.io^$important,document
+@@||githubusercontent.com^$important,document
+@@||githubassets.com^$important,document
+@@||github.dev^$important,document
+
+
+! ============================================
+! ANALYTICS & URL MANAGEMENT
+! ============================================
+! Metricool - Social media analytics platform
+@@||app.metricool.com^$important,document
+
+! Short.io - URL shortening service
+@@||app.short.io^$important,document
+
+
+! ============================================
+! GOOGLE SERVICES
+! ============================================
+! Google Support - Help and documentation
+@@||support.google.com^$important,document
+
+! Google AdSense - Ad revenue platform
+@@||adsense.google.com^$important,document
+
+! Google Ads - Online advertising platform
+@@||ads.google.com^$important,document
+
+! Google Analytics - Analytics tool
+@@||analytics.google.com^$important,document
+
+! Google Tag Manager - Website tag management tool
+@@||tagassistant.google.com^$important,document
+
+
+! ============================================
+! SOCIAL MEDIA & CONTENT PLATFORMS
+! ============================================
+! Facebook Business - Business page management
+@@||business.facebook.com^$important,document
+
+
+! ============================================
+! AFFILIATE PROGRAMS
+! ============================================
+! Amazon Affiliate Program - Partner dashboard
+@@||affiliate-program.amazon.com^$important,document
+@@||*.amazon.*^$important,document
+
+! CJ Affiliate Program - Partner dashboard
+@@||members.cj.com^$important,document
+
+
+! ============================================
+! HOSTING & INFRASTRUCTURE
+! ============================================
+! Hostinger control panel
+@@||hpanel.hostinger.com^$important,document
+
+! Cloudflare dashboard
+@@||dash.cloudflare.com^$important,document
+
+! Cloudflare challenges
+@@||challenges.cloudflare.com^$important,document
+
+
+! ============================================
+! DATABASE & BACKEND SERVICES
+! ============================================
+! Example: Supabase dashboard
+! @@||supabase.com^$important,document
+
+
+! ============================================
+! AI & AUTOMATION TOOLS
+! ============================================
+! Example: Make.com scenarios
+! @@||make.com^$important,document
+
+
+! ============================================
+! VISUAL CONTENT & MEDIA SERVICES
+! ============================================
+! Cloudinary media library
+@@||cloudinary.com^$important,document
+@@||res.cloudinary.com^$important,document
+
+! Canva (|| já cobre todos os subdomínios)
+@@||canva.com^$important,document
+@@||canvacdn.com^$important,document
+
+! Envato
+@@||app.envato.com^$important,document
+@@||labs.envato.com^$important,document
+
+! Pictory AI
+@@||app.pictory.ai^$important,document
+
+
+! ============================================
+! PAYMENT & E-COMMERCE
+! ============================================
+! Example: Stripe dashboard
+! @@||stripe.com^$important,document
+
+
+! ============================================
+! COMMUNICATION & CHAT TOOLS
+! ============================================
+! Example: Chatwoot instance
+! @@||app.chatwoot.com^$important,document
+
+
+! ============================================
+! DOMAIN & SSL MANAGEMENT
+! ============================================
+! Example: Domain registrar
+! @@||namecheap.com^$important,document
+
+
+! ============================================
+! VIDEO & STREAMING PLATFORMS
+! ============================================
+! YouTube Studio
+@@||studio.youtube.com^$important,document
+@@||youtube.com^$important,document
+
+
+! ============================================
+! WORDPRESS & CMS PLATFORMS
+! ============================================
+! Example: WordPress.org plugin repository
+! @@||wordpress.org^$important,document
+
+
+! ============================================
+! TESTING & UTILITIES
+! ============================================
+! Example: IP address checker
+! @@||whatismyipaddress.com^$important,document
+
+
+! ============================================
+! OTHER DOMAINS & SERVICES
+! ============================================
+! Shadow PC (|| já cobre todos os subdomínios)
+@@||shadow.tech^$important,document
+
+
+! ============================================
+! CUSTOM RULES & EXPERIMENTS
+! ============================================
+
+! ============================================
+! END OF CUSTOM ALLOWLIST
+! ============================================
