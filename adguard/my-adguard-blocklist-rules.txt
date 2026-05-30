@@ -1,0 +1,34 @@
+! Title: Loti - Ads Personal Blocklist
+! Description: Personal blocklist for Thiago Loti
+! Version: 1.0
+! Last modified: 2026-05-24
+!
+
+! ============================================
+! DOMAINS NOT BLOCKED IN THE TEST AD BLOCK TOOLZ (adblock.turtlecute.org)
+! ============================================
+! Amazon Ads
+||analytics.s3.amazonaws.com^$all
+||analyticsengine.s3.amazonaws.com^$all
+
+! LinkedIn Social Tracker
+||analytics.pointdrive.linkedin.com^$all
+
+! Realme OEM
+||bdapi-ads.realmemobile.com^$all
+
+! Oppo OEM
+||adx.ads.oppomobile.com^$all
+||ck.ads.oppomobile.com^$all
+||data.ads.oppomobile.com^$all
+
+! Huawei OEM
+||metrics.data.hicloud.com^$all
+||metrics2.data.hicloud.com^$all
+||grs.hicloud.com^$all
+||logservice.hicloud.com^$all
+||logservice1.hicloud.com^$all
+||logbak.hicloud.com^$all
+
+! Apple OEM
+||iadsdk.apple.com^$all
