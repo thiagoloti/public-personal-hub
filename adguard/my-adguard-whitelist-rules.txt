@@ -65,6 +65,24 @@
 
 
 ! ============================================
+! APPLE SERVICES
+! ============================================
+! Siri and Dictation
+@@||guzzoni.apple.com^$important,document
+
+! Apple Intelligence Extensions
+@@||apple-relay.apple.com^$important,document
+
+! Search services used by Siri, Spotlight, etc.
+@@||smoot.apple.com^$important,document
+
+! Private Cloud Compute
+@@||apple-relay.cloudflare.com^$important,document
+@@||apple-relay.fastly-edge.com^$important,document
+@@||cp4.cloudflare.com^$important,document
+
+
+! ============================================
 ! GOOGLE SERVICES
 ! ============================================
 ! Google Support - Help and documentation
@@ -193,7 +211,7 @@
 ! OTHER DOMAINS & SERVICES
 ! ============================================
 ! Shadow PC (|| já cobre todos os subdomínios)
-@@||shadow.tech^$important,document
+! @@||shadow.tech^$important,document
 
 
 ! ============================================
