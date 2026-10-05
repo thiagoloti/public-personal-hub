@@ -81,6 +81,12 @@
 @@||apple-relay.fastly-edge.com^$important,document
 @@||cp4.cloudflare.com^$important,document
 
+! iCloud Private Relay
+@@||mask.icloud.com^$important,document
+@@||mask-h2.icloud.com^$important,document
+@@||mask-api.icloud.com^$important,document
+@@||doh.dns.apple.com^$important,document
+
 
 ! ============================================
 ! GOOGLE SERVICES
