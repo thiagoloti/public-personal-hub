@@ -99,6 +99,7 @@
 
 ! Google Ads - Online advertising platform
 @@||ads.google.com^$important,document
+@@||adstransparency.google.com^$document
 
 ! Google Analytics - Analytics tool
 @@||analytics.google.com^$important,document
